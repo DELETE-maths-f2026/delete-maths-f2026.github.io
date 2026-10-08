@@ -3,7 +3,7 @@
 # rewrites this whole collection on every run. Edit the source instead: the cohort's
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: assignment
-date: 2026-09-29T23:59:00
+date: 2026-09-22T07:00:00
 title: "Assignment 2"
 subtitle: "Multinomial Sampling, PMFs and Naive Bayes"
 submit_shape: "assignment-repo-private"
@@ -13,9 +13,13 @@ repo_name_is_shape: true
 cutoff_sentence: "What is on main at the grading cutoff is what is marked."
 late_rule: "10% per day, up to 10 days"
 shape_note: "NB: this repo is private - only you and the teaching team can read it."
+team_join_url: "https://github.com/DELETE-maths-f2026/welcome/issues/new/choose"
+team_join_cap: "4"
+team_join_closes: "11th Oct"
+team_salt: "DELETE-maths-f2026"
 due_event:
     type: due
-    date: 2026-09-29T23:59:00
+    date: 2026-10-11T23:59:00
     title: "Assignment 2"
     subtitle: "Multinomial Sampling, PMFs and Naive Bayes"
     submit_shape: "assignment-repo-private"

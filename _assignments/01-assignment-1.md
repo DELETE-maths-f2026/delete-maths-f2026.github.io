@@ -3,7 +3,7 @@
 # rewrites this whole collection on every run. Edit the source instead: the cohort's
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: assignment
-date: 2026-09-15T23:59:00
+date: 2026-09-08T07:00:00
 title: "Assignment 1"
 subtitle: "Introduce Yourself"
 submit_shape: "external"
@@ -11,7 +11,7 @@ submit_url: "https://moodle.hertie-school.org/course/section.php?id=55657"
 submit_host: "moodle.hertie-school.org"
 due_event:
     type: due
-    date: 2026-09-15T23:59:00
+    date: 2026-09-20T23:59:00
     title: "Assignment 1"
     subtitle: "Introduce Yourself"
     submit_shape: "external"
