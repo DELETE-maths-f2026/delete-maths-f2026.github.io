@@ -9,6 +9,9 @@ subtitle: "Assignment 4"
 handout_pending: true
 submit_shape: "assignment-repo-private"
 repo_name: "assignment-4-<your-team>"
+repo_name_is_shape: true
+cutoff_sentence: "What is on main at the late cutoff is what is marked."
+late_rule: "10% per day, up to 10 days"
 due_event:
     kind: due
     date: 2026-11-29T23:59:00
@@ -16,5 +19,6 @@ due_event:
     subtitle: "Assignment 4"
     submit_shape: "assignment-repo-private"
     repo_name: "assignment-4-<your-team>"
+    repo_name_is_shape: true
 ---
 _**Assignment 4 is not yet released** - your private `assignment-4-<your-team>` repo appears when it is._
