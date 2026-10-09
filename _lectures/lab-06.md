@@ -14,5 +14,8 @@ links:
     - url: https://github.com/DELETE-maths-f2026/materials/blob/main/labs/06_lab/lab6_student.ipynb
       name: "lab6_student.ipynb"
       section: "lab"
+    - url: https://github.com/DELETE-maths-f2026/materials/tree/main/labs/06_lab/solutions
+      name: "solutions/ (2 files)"
+      section: "lab"
 ---
 
